@@ -23,3 +23,8 @@
     /* Set the caption text color to white or a color that contrasts well with the overlay */
     text-align: center;
 }
+
+.custom-icon {
+    height: 20px;
+    width: 20px;
+}
